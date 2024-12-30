@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhanAK12 -> Arij Khan 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++/C
-- 📫 How to reach me -> arijkhan4u20@gmail.com
+- 📫 How to reach me -> khanarij007@gmail.com
 
 <!---
 akhanAK12/akhanAK12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
